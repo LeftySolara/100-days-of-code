@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+This repository serves as my journal and log for the 100 Days of Code challenge.
+
 ## Contents
 
 - [Rules](rules.md)
