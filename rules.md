@@ -6,7 +6,7 @@
 
 #### Start Date
 
-August 2, 2024.
+August 3, 2024.
 
 ## Additional Rules
 

@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Julianne Adams
 
-The log of my #100DaysOfCode challenge. Started on August 2, Friday, 2024.
+The log of my #100DaysOfCode challenge. Started on August 3, Saturday, 2024.
 
 ## Goal
 
