@@ -24,3 +24,10 @@ The existing code was too complex and confusing for someone
 unfamiliar with Golang (me), so I made it a bit more tidy.
 
 [Link to today's code](https://github.com/LeftySolara/go-calculator/tree/a0fb5d4c9ae47077399cd9845bba93e2b369a3c0)
+
+### R1D3
+
+Learned about variadic functions and figured out how to display multiple
+buttons without having to declare and draw each individual one separately.
+
+[Link to today's code](https://github.com/LeftySolara/go-calculator/tree/4a1acbe51f4396483cfbe358706d4f78e614b322)
