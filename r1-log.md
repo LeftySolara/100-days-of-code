@@ -31,3 +31,10 @@ Learned about variadic functions and figured out how to display multiple
 buttons without having to declare and draw each individual one separately.
 
 [Link to today's code](https://github.com/LeftySolara/go-calculator/tree/4a1acbe51f4396483cfbe358706d4f78e614b322)
+
+### R1D4
+
+Learned about pointers in Go. Also figured out how to make buttons clickable
+in the calculator project.
+
+[Link to today's code](https://github.com/LeftySolara/go-calculator/tree/6bbf3d7a766d6062880cb83eaa24c31f82ec3a7a)
