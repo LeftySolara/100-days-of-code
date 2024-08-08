@@ -38,3 +38,13 @@ Learned about pointers in Go. Also figured out how to make buttons clickable
 in the calculator project.
 
 [Link to today's code](https://github.com/LeftySolara/go-calculator/tree/6bbf3d7a766d6062880cb83eaa24c31f82ec3a7a)
+
+### R1D5
+
+Learned about structs in Go.
+
+For the calculator project, I've migrated from GioUI to Wails. I was having a lot
+of trouble with Gio, but I feel like Wails will be easier since I'm already familiar
+with React and TypeScript.
+
+[Link to today's code](https://github.com/LeftySolara/calculator/tree/67f080549e5be93234704cc16492c5d6310c16dd)
