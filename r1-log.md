@@ -48,3 +48,9 @@ of trouble with Gio, but I feel like Wails will be easier since I'm already fami
 with React and TypeScript.
 
 [Link to today's code](https://github.com/LeftySolara/calculator/tree/67f080549e5be93234704cc16492c5d6310c16dd)
+
+### R1D6
+
+Added number input buttons and a display for showing the user's input.
+
+[Link to today's code](https://github.com/LeftySolara/calculator/tree/79354573ca150c5bd8eb5e0313120d79a0d39965)
