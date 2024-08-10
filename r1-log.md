@@ -54,3 +54,11 @@ with React and TypeScript.
 Added number input buttons and a display for showing the user's input.
 
 [Link to today's code](https://github.com/LeftySolara/calculator/tree/79354573ca150c5bd8eb5e0313120d79a0d39965)
+
+### R1D7
+
+Started learning about interfaces in Golang. For the calculator project,
+I added operator buttons and implemented a stack data structure to use for
+Reverse Polish Notation.
+
+[Link to today's code](https://github.com/LeftySolara/calculator/tree/0cb4ec4bc3742a466ba7edfa7904bdd96deba5db)
