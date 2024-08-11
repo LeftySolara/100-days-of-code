@@ -62,3 +62,11 @@ I added operator buttons and implemented a stack data structure to use for
 Reverse Polish Notation.
 
 [Link to today's code](https://github.com/LeftySolara/calculator/tree/0cb4ec4bc3742a466ba7edfa7904bdd96deba5db)
+
+### R1D8
+
+Learned more about Golang interfaces.
+
+For the calculator project, I implemented a stack data structure and an evaluator function. The function goes through the stack and evaluates expressions in Reverse Polish Notation.
+
+[Link to today's code](https://github.com/LeftySolara/calculator/tree/9e096b0a05a4952c78c0ab5706b30351062e7053)
