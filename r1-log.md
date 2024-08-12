@@ -70,3 +70,11 @@ Learned more about Golang interfaces.
 For the calculator project, I implemented a stack data structure and an evaluator function. The function goes through the stack and evaluates expressions in Reverse Polish Notation.
 
 [Link to today's code](https://github.com/LeftySolara/calculator/tree/9e096b0a05a4952c78c0ab5706b30351062e7053)
+
+### R1D9
+
+Started a new project. It's just a simple task management application written in Go, using the Bubble Tea library for the TUI.
+
+I went through some tutorials for Bubble Tea and wrote the initial program loop for my project.
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/238483e5b00c95cce221892b236dd4fc44bb326c)
