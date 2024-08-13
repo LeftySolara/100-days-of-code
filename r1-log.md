@@ -78,3 +78,12 @@ Started a new project. It's just a simple task management application written in
 I went through some tutorials for Bubble Tea and wrote the initial program loop for my project.
 
 [Link to today's code](https://github.com/LeftySolara/go-tasks/tree/238483e5b00c95cce221892b236dd4fc44bb326c)
+
+### R1D10
+
+Started learning about concurrency in Go.
+
+For the task manager project, I added functionality for displaying tasks along
+with their completion status.
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/acc97aa007bb151435152be388e7ebce90bc10f7)
