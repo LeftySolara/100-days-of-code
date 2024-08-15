@@ -87,3 +87,14 @@ For the task manager project, I added functionality for displaying tasks along
 with their completion status.
 
 [Link to today's code](https://github.com/LeftySolara/go-tasks/tree/acc97aa007bb151435152be388e7ebce90bc10f7)
+
+### R1D11
+
+Feeling pretty awful today, but still coding.
+
+Started learning about buffered channels in Go.
+
+For the task manager project, I cleaned up the task model and added the ability to navigate between tasks.
+Also added a little bit of styling.
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/6d740bf98ca27eb58afa8606aaa1180b094d82d8)
