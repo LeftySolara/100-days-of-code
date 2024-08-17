@@ -98,3 +98,9 @@ For the task manager project, I cleaned up the task model and added the ability 
 Also added a little bit of styling.
 
 [Link to today's code](https://github.com/LeftySolara/go-tasks/tree/6d740bf98ca27eb58afa8606aaa1180b094d82d8)
+
+### R1D12
+
+Got stuck trying to get multiple views working.
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/498fad3f4aea888021ceee1f95d7ba819fcb9354)
