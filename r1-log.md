@@ -104,3 +104,11 @@ Also added a little bit of styling.
 Got stuck trying to get multiple views working.
 
 [Link to today's code](https://github.com/LeftySolara/go-tasks/tree/498fad3f4aea888021ceee1f95d7ba819fcb9354)
+
+### R1D13
+
+Got multiple views working and implemented functionality for adding new tasks to the list.
+There is a new bug where navigation keys are doing the opposite of what they're supposed to do
+(for example, the key for navigating up is instead navigating down).
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/56f79dec940d20b9bee0aa81ef6a3ee413778229)
