@@ -112,3 +112,10 @@ There is a new bug where navigation keys are doing the opposite of what they're 
 (for example, the key for navigating up is instead navigating down).
 
 [Link to today's code](https://github.com/LeftySolara/go-tasks/tree/56f79dec940d20b9bee0aa81ef6a3ee413778229)
+
+### R1D14
+
+Fixed a bug where the navigation keys were working backwards. Also split the task list into its own package
+to make the code cleaner.
+
+[Link to today's code](https://github.com/LeftySolara/go-tasks/tree/2cdd8bdc7cb76d26fd17bf319ffb936aaa075de8)
